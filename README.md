@@ -113,7 +113,7 @@ enterprise-search-system/
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SatyamBaghel01/enterprise-search-system
 cd enterprise-search-system
 ```
 ### 2️⃣ Create a virtual environment  
