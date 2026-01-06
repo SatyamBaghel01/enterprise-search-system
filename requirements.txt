@@ -1,0 +1,58 @@
+# Core
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+
+# Embeddings & Vector DB
+sentence-transformers==2.3.1
+chromadb==0.4.22
+
+# LLM (local)
+ollama==0.1.6
+
+langchain==0.0.354
+langgraph==0.0.20
+
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Async / HTTP
+celery==5.3.6
+redis==5.0.1
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Document Processing
+pypdf==4.0.0
+python-docx==1.1.0
+python-pptx==0.6.23
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# UI
+streamlit==1.30.0
+plotly==5.18.0
+pandas==2.1.4
+
+# Utilities
+python-dotenv==1.0.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+tenacity==8.2.3
+loguru==0.7.2
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+faker==22.6.0
+
+# Monitoring
+prometheus-client==0.19.0
+

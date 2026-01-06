@@ -1,0 +1,17 @@
+{
+  "id": "PROJ-139",
+  "title": "[Bug] Decade its career.",
+  "description": "Sea feeling week her hour region view your. Hundred yard series tree people. Special democratic local half middle hour their.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "issue_type": "Story",
+  "reporter": "Connor Johnson",
+  "assignee": "John Cox",
+  "created_at": "2025-12-02T12:44:23.378440",
+  "updated_at": "2026-01-03T12:44:23.378440",
+  "url": "https://jira.example.com/browse/PROJ-139",
+  "labels": [
+    "backend"
+  ],
+  "comments": ""
+}

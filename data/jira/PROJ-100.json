@@ -1,0 +1,18 @@
+{
+  "id": "PROJ-100",
+  "title": "[Bug] Just officer water appear ahead wide.",
+  "description": "Fall military to receive project prevent news. Bring clear analysis shoulder. Customer art player action to. Model animal quite bed. Government would do miss list.",
+  "status": "In Review",
+  "priority": "Critical",
+  "issue_type": "Task",
+  "reporter": "Ian Dennis",
+  "assignee": "Danny Manning",
+  "created_at": "2025-11-15T12:44:23.281231",
+  "updated_at": "2025-12-29T12:44:23.281231",
+  "url": "https://jira.example.com/browse/PROJ-100",
+  "labels": [
+    "database",
+    "frontend"
+  ],
+  "comments": ""
+}
