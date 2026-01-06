@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Enterprise Intelligent Search System (Agentic Search MVP)</h1>
+<h1 align="center">🧠 Enterprise Intelligent Search System </h1>
 
 <p align="center">
  <b>Context-Aware Search → Reasoning Agents → Grounded Answers</b>  
